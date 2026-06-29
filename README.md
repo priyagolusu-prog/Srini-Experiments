@@ -30,3 +30,23 @@ Avoid overloaded technical diagrams
 
 Note: All the attached information should be captured.
 Dont miss any key information
+
+
+
+
+Close People
+├── Family
+│   ├── Spouse
+│   ├── Parents
+│   ├── Children
+│   └── Siblings
+│
+├── Favorites
+│   ├── Favorite Contacts
+│   └── User-Pinned People
+│
+└── Frequent Contacts
+    ├── Top Contacts
+    ├── Active Contacts
+    ├── Recent Contacts
+    └── Periodic Contacts
